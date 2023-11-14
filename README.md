@@ -1,10 +1,5 @@
 ### Hi there! 👋
 
-I'm currently learning Python 🐍
-
-My knowledge:
-HTML, CSS, Python, Flask, Bootstrap, Sqalchemy.
-
 Right now learning Django Framework 😉
 
 
