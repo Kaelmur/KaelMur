@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Right now learning Django Framework 😉
+Right now learning javascript! 😉
 
 
 <!--
