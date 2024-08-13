@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Right now learning javascript! 😉
+Right now learning NextJs! 😉
 
 
 <!--
