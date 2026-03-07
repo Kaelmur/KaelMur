@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Right now learning NextJs! 😉
+Right now working with React and Nextjs.
 
 
 <!--
